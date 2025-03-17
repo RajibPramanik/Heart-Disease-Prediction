@@ -1,4 +1,4 @@
-# Heart Disease Prediction
+# Heart-Disease-Prediction
 
 This project uses **Logistic Regression** to predict the presence of heart disease based on various health parameters.
 
